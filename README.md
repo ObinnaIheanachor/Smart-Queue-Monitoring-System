@@ -130,4 +130,4 @@ We then compare performance on these devices on these 3 metrics-
 * Inference Time
 
 ## License
-The contents of this repositopr is covered under the [MIT License](https://github.com/ObinnaIheanachor/Smart-Queue-Monitoring-System/blob/master/LICENSE)
+The contents of this repository are covered under the [MIT License](https://github.com/ObinnaIheanachor/Smart-Queue-Monitoring-System/blob/master/LICENSE)
